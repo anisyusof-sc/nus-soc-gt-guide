@@ -21,3 +21,9 @@ After the HoD has approved the travel request, an expense report has to be attac
 Good Luck for your publications.
 
 [id]: https://nusconcur.nus.edu.sg/
+
+<sub>
+- Written By: Yiming
+- Initial: 18 February 2022
+- Last Updated: 18 February 2022
+</sub>
